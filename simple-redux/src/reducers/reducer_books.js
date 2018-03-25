@@ -1,8 +1,8 @@
 export default function () {
   return [
-    {"title": "blablabla blablabla"},
-    {"title": "blablabla blobloblo"},
-    {"title": "blablabla blebleble"},
-    {"title": "blablabla bliblibli"}
+    {title: "Guerra nas estrelas", pages: 100},
+    {title: "Átomo", pages: 34},
+    {title: "Os Primeiros Dias", pages: 83},
+    {title: "Jogador número 1", pages: 440}
   ]
 }
